@@ -17,7 +17,7 @@
 - Building a Computer From Scratch (Starting with Logic Gates) 🛠
 
 # Reach Me 📩:
-- [My Email](yahelhp@gmail.com) 📫
+- yahelhp@gmail.com 📫
 
 <!---
 YahelB05/YahelB05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
