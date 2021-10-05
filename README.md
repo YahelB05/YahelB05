@@ -12,6 +12,7 @@
 - C++ 📚
 - Web Security 🔐
 - Linux 🦜
+- Android App Development Using Java 📱
 
 # Future Topics to Learn 📌:
 - Building a Computer From Scratch (Starting with Logic Gates) 🛠
