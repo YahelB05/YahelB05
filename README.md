@@ -1,24 +1,31 @@
-# About Me 🧐:
-- Hi, I’m Yahel, and I'm in 11th grade 🤓. 
-- I’m interested in keep learning Computer Science 💻.
+# About Me :monocle_face: :
+- Hi, I’m Yahel, and I'm in 11th grade
+- I’m interested in keep learning Computer Science
+- I have experience with doing private lessons on the upcoming topics
 
-# Knowledge 🧠:
-- Python 🐍
-- Java ☕
-- SQL 📂
-- Networking 📲
+<hr/>
+<br/>
 
-# In Learning Progress 📃:
-- C++ 📚
-- Web Security 🔐
-- Linux 🦜
-- Android App Development Using Java 📱
+# Learning :brain: :
+- Linux Fundamentals
+- Android App Development Using Java
+- Data Structures and Algorithms
+- Networking - Tools, Protocols, Sockets, and Cyber
+- Building a Computer From Scratch (Logic Gates → Hack Computer)
 
-# Future Topics to Learn 📌:
-- Building a Computer From Scratch (Starting with Logic Gates) 🛠
+<br/>
 
-# Reach Me 📩:
-- yahelhp@gmail.com 📫
+# Used Languages :computer: :
+<code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original-wordmark.svg"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/cplusplus/cplusplus-original.svg"></code>
+
+<hr/>
+<br/>
+
+# Reach Me :incoming_envelope: :
+- yahelhp@gmail.com
 
 <!---
 YahelB05/YahelB05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
