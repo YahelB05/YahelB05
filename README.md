@@ -9,6 +9,7 @@
 # Learning :brain: :
 - Linux Fundamentals
 - Android App Development Using Java
+- Frontend Web Development
 - Data Structures and Algorithms
 - Networking - Tools, Protocols, Sockets, and Cyber
 - Building a Computer From Scratch (Logic Gates → Hack Computer)
