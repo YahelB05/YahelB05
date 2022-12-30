@@ -1,5 +1,7 @@
 # About Me :monocle_face: :
 - Hi, I’m Yahel, and I'm in 12th grade
+- Currently working on a startup called <b>"Let's Study"</b> with partners. It focuses on education and volunteering among youth
+- Participated in the startup championship <b>"StartCup"</b> and qualified for the final (2021-2022), competing again this season with <b>"Let's Study"</b>
 - I’m interested in keep learning Computer Science
 - I have experience with doing private lessons on the upcoming topics
 
@@ -21,7 +23,9 @@
 <code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg" /></code>
 <code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg" /></code>
 <code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/cplusplus/cplusplus-original.svg" /></code>
-<code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" /></code>
+<code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" /></code>
+<code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/android/android-plain-wordmark.svg" /></code>
+<code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" /></code>
 
 <hr/>
 <br/>
