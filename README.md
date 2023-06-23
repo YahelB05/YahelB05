@@ -1,9 +1,10 @@
 # About Me :monocle_face: :
-- Hi, I’m Yahel, and I'm in 12th grade
-- Currently working on a startup called <b>"Let's Study"</b> with partners. It focuses on education and volunteering among youth
+- Hi, I'm Yahel, a recent high school graduate.
+- Currently working on several full-stack and Android projects (will be public soon 🙂).
+- Involved in a startup called "Let's Study," focusing on education and youth volunteering.
 - Participated in the startup championship <b>"StartCup"</b> twice and qualified for the finals both times (2021-2022 and 2022-2023).
-- I’m interested in keep learning Computer Science
-- I have experience with doing private lessons on the upcoming topics
+- I have experience providing private lessons on upcoming topics.
+- Continuously interested in learning and advancing in the field of Computer Science.
 
 <hr/>
 <br/>
