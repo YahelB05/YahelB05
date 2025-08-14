@@ -1,14 +1,13 @@
 # About Me :monocle_face: :
-- Hi, I'm Yahel, a recent high school graduate.
-- Currently working on several full-stack and Android projects (will be public soon 🙂).
-- Participated in the startup championship <b>"StartCup"</b> twice and qualified for the finals both times (2021-2022 and 2022-2023).
-- I have experience providing private lessons on upcoming topics.
-- Continuously interested in learning and advancing in the field of Computer Science.
+Hi, I'm Yahel. I have 6 years of experience in programming, focusing on backend development and DevOps.  
+I also work on some full-stack and Android projects and enjoy exploring new areas in Computer Science to continuously improve my skills.
+
 
 <hr/>
 <br/>
 
 # Learning :brain: :
+- Backend Engineering
 - Full-Stack Web Development
 - Android App Development Using Java
 - Data Structures and Algorithms
